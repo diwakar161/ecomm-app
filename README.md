@@ -175,9 +175,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 👥 Author
 Diwakar Kumar Jha
-
-GitHub: @yourusername
-
-
-
-Email: your.email@example.com
+GitHub: @diwakar161
+Email: diwakarjha1999@gmail.com
