@@ -1,5 +1,5 @@
 🚀 Live Demo
-https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github
+https://ecomm-app-cyan.vercel.app/
 
 📋 Project Overview
 A modern, responsive ecommerce web application built with Next.js 14.0.3. This app provides a complete online shopping experience with product browsing, cart management, and checkout functionality.
