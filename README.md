@@ -68,7 +68,7 @@ Option 2: Run Locally
 Clone the repository:
 
 bash
-git clone https://https://github.com/diwakar161/ecomm-app.git
+git clone //https://github.com/diwakar161/ecomm-app.git
 Navigate to project folder:
 
 bash
@@ -153,18 +153,6 @@ Add unit tests
 
 Implement PWA features
 
-🤝 Contributing
-Contributions are welcome! Here's how:
-
-Fork the repository
-
-Create a feature branch: git checkout -b feature-name
-
-Commit changes: git commit -m 'Add feature'
-
-Push to branch: git push origin feature-name
-
-Open a Pull Request
 
 Guidelines:
 Follow existing code style
@@ -190,6 +178,6 @@ Diwakar Kumar Jha
 
 GitHub: @yourusername
 
-Portfolio: yourportfolio.com
+
 
 Email: your.email@example.com
