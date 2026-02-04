@@ -68,7 +68,7 @@ Option 2: Run Locally
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/ecommerce-app.git
+git clone https://https://github.com/diwakar161/ecomm-app.git
 Navigate to project folder:
 
 bash
