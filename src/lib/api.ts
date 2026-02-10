@@ -22,4 +22,4 @@ export async function fetchProduct(id: string): Promise<Product> {
     console.error('Error fetching product:', error);
     throw error;
   }
-}
+} 

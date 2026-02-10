@@ -1,6 +1,14 @@
 {
+  "/_not-found": "app/_not-found.js",
+  "/api/events/route": "app/api/events/route.js",
+  "/api/login/route": "app/api/login/route.js",
+  "/cart/page": "app/cart/page.js",
+  "/login/page": "app/login/page.js",
+  "/checkout/page": "app/checkout/page.js",
+  "/events/page": "app/events/page.js",
   "/products/page": "app/products/page.js",
   "/products/[id]/page": "app/products/[id]/page.js",
-  "/cart/page": "app/cart/page.js",
-  "/checkout/page": "app/checkout/page.js"
+  "/upgrade-account/page": "app/upgrade-account/page.js",
+  "/page": "app/page.js",
+  "/wishlist/page": "app/wishlist/page.js"
 }
