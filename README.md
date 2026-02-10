@@ -1,5 +1,5 @@
 🚀 Live Demo
-https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github
+https://ecomm-app-cyan.vercel.app/
 
 📋 Project Overview
 A modern, responsive ecommerce web application built with Next.js 14.0.3. This app provides a complete online shopping experience with product browsing, cart management, and checkout functionality.
@@ -68,7 +68,7 @@ Option 2: Run Locally
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/ecommerce-app.git
+git clone //https://github.com/diwakar161/ecomm-app.git
 Navigate to project folder:
 
 bash
@@ -153,18 +153,6 @@ Add unit tests
 
 Implement PWA features
 
-🤝 Contributing
-Contributions are welcome! Here's how:
-
-Fork the repository
-
-Create a feature branch: git checkout -b feature-name
-
-Commit changes: git commit -m 'Add feature'
-
-Push to branch: git push origin feature-name
-
-Open a Pull Request
 
 Guidelines:
 Follow existing code style
@@ -187,9 +175,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 👥 Author
 Diwakar Kumar Jha
-
-GitHub: @yourusername
-
-Portfolio: yourportfolio.com
-
-Email: your.email@example.com
+GitHub: @diwakar161
+Email: diwakarjha1999@gmail.com
